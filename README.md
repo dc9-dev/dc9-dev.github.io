@@ -6,14 +6,14 @@ hugo new posts/tytul_nowego_wpisu.md
 
 Nalezy przejsc do katalogu posts i wyedytowac plik tytul_nowego_wpisu.md - nalezy odpowiednio uzupelnic pola
 
-`---
+---
 title: "Tytul_nowego_wpisu"
 date: 2021-11-22T23:16:43+01:00
 draft: true
 alternativeUrl: 
 summary: 
 thumbnail: "i/europe.svg"
----`
+---
 
 ### WAZNE
 
