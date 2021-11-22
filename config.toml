@@ -1,6 +1,6 @@
 baseURL = 'http://open-spending.test/'
 languageCode = 'pl-PL'
 title = 'My New Hugo Site'
-tags = []
 features = []
 paginate = 5
+publishDir: 'docs'
