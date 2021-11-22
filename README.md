@@ -39,5 +39,5 @@ Nalezy wykonac nastepujace operacje:
 
 `git push`
 
-# Strona po około minucie od wykonania powyzszej kombinacji polecen odswiezy sie zamodzielnie na serwerze
+### Strona po około minucie od wykonania powyzszej kombinacji polecen odswiezy sie samodzielnie na serwerze
 
