@@ -3,4 +3,4 @@ languageCode = 'pl-PL'
 title = 'My New Hugo Site'
 features = []
 paginate = 5
-publishDir: 'docs'
+publishDir = 'docs'
