@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://open-spending.test/evidence/</loc>
-    <lastmod>2021-11-19T15:00:34+01:00</lastmod>
-  </url><url>
-    <loc>http://open-spending.test/vision/</loc>
-    <lastmod>2021-11-19T14:27:31+01:00</lastmod>
-  </url><url>
     <loc>http://open-spending.test/</loc>
     <lastmod>2021-08-27T13:06:47+01:00</lastmod>
   </url><url>
@@ -20,13 +14,26 @@
     <loc>http://open-spending.test/posts/analysis_finds_eu/</loc>
     <lastmod>2021-06-13T13:03:21+01:00</lastmod>
   </url><url>
+    <loc>http://open-spending.test/logotypes/first/</loc>
+    <lastmod>2021-04-30T13:00:44+01:00</lastmod>
+  </url><url>
     <loc>http://open-spending.test/posts/access_info_europe/</loc>
+    <lastmod>2021-04-30T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>http://open-spending.test/logotypes/epanstwo/</loc>
+    <lastmod>2021-04-30T13:00:44+01:00</lastmod>
+  </url><url>
+    <loc>http://open-spending.test/logotypes/</loc>
     <lastmod>2021-04-30T13:00:44+01:00</lastmod>
   </url><url>
     <loc>http://open-spending.test/posts/ocp_buy_open_buy_fast/</loc>
     <lastmod>2021-04-29T16:33:34+01:00</lastmod>
   </url><url>
     <loc>http://open-spending.test/categories/</loc>
+  </url><url>
+    <loc>http://open-spending.test/logotypes/funky_citizens/</loc>
+  </url><url>
+    <loc>http://open-spending.test/logotypes/k_monitor/</loc>
   </url><url>
     <loc>http://open-spending.test/tags/</loc>
   </url>

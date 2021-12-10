@@ -20,7 +20,13 @@
       </div>
       <div>We are Access Info Europe (Spain), ePaństwo Foundation (Poland), Forum Informationsfreiheit (Austria), Funky Citizens (Romania), Government Transparency Institute (Hungary), K-Monitor (Hungary), Open Contracting Partnership, Open State Foundation (Netherlands), Parliament Watch (Italy), Transparency International EU, Transparency International (Lithuania), Transparency International (Portugal). Individual members: Adriana Homolova (Slovakia), Daniel Arosa Otero (Spain), Manuel Garcia (Spain).&nbsp;</div>
     </div>
-    {{ partial "logotypes.html" . }}
+
+    <logotypes>
+
+      {{ partial "logotypes.html" . }}
+   
+  </logotypes>
+
     <div class="mt-8 people">
       <vueper-slides :dragging-distance="70" :arrows="false" :bullets="true" :fixed-height="true" :autoplay="true" :visible-slides="2" :breakpoints="breakpoints" prevent-y-scroll class="no-shadow">
         <vueper-slide>

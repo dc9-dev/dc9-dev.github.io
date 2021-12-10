@@ -8,27 +8,6 @@
     <language>pl-PL</language>
     <lastBuildDate>Fri, 27 Aug 2021 13:06:47 +0100</lastBuildDate><atom:link href="http://open-spending.test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Evidence</title>
-      <link>http://open-spending.test/evidence/</link>
-      <pubDate>Fri, 19 Nov 2021 15:00:34 +0100</pubDate>
-      
-      <guid>http://open-spending.test/evidence/</guid>
-      <description>Openness in procurement can improve procurement in multiple ways, including more integrity, efficiency, level playing field, etc. Find a list of available evidence below:
-Open procurement improves public integrity by deterring fraud and corruption  Academic research shows that improved openness and transparency is good for public integrity, value for money and competition. A study of more than 3.5 million government contracts across Europe determined that every additional item of information shared about a tender decreases the risk of a single bid contract.</description>
-    </item>
-    
-    <item>
-      <title>Vision</title>
-      <link>http://open-spending.test/vision/</link>
-      <pubDate>Fri, 19 Nov 2021 14:27:31 +0100</pubDate>
-      
-      <guid>http://open-spending.test/vision/</guid>
-      <description>Who we are We are a collaboration of non-government organisations and professionals working to ensure that government spending is done fairly, openly, efficiently, and creates the best value for money and best outcomes for Europe.
-What we advocate for We are working at the national and EU levels to advance the principles of openness in spending of funds, procurement, and company ownership within the EU.
-Transparent spending of EU Funds Disclosure requirements on the spending of EU funds are inadequate.</description>
-    </item>
-    
-    <item>
       <title>Open Spending EU Coalition Calls on Poland and Hungary to Ensure Transparency of RRF Spending</title>
       <link>http://open-spending.test/posts/calls_on_poland_and_hungary/</link>
       <pubDate>Fri, 27 Aug 2021 13:06:47 +0100</pubDate>
@@ -47,6 +26,15 @@ Transparent spending of EU Funds Disclosure requirements on the spending of EU f
     </item>
     
     <item>
+      <title>Access Info Europe, ES</title>
+      <link>http://open-spending.test/logotypes/first/</link>
+      <pubDate>Fri, 30 Apr 2021 13:00:44 +0100</pubDate>
+      
+      <guid>http://open-spending.test/logotypes/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Access Info Europe: 5 solutions for local governments to prevent and fight corruption</title>
       <link>http://open-spending.test/posts/access_info_europe/</link>
       <pubDate>Fri, 30 Apr 2021 13:00:44 +0100</pubDate>
@@ -56,12 +44,39 @@ Transparent spending of EU Funds Disclosure requirements on the spending of EU f
     </item>
     
     <item>
+      <title>ePanstwo Foundation, PL</title>
+      <link>http://open-spending.test/logotypes/epanstwo/</link>
+      <pubDate>Fri, 30 Apr 2021 13:00:44 +0100</pubDate>
+      
+      <guid>http://open-spending.test/logotypes/epanstwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OCP: Buy open, buy fast: how open contracting helped Lithuania’s Coronavirus response</title>
       <link>http://open-spending.test/posts/ocp_buy_open_buy_fast/</link>
       <pubDate>Thu, 29 Apr 2021 16:33:34 +0100</pubDate>
       
       <guid>http://open-spending.test/posts/ocp_buy_open_buy_fast/</guid>
       <description>The move allowed the government, civil society and journalists to investigate spending and solve problems. Based on this success, Lithuania is now moving to put open data and open government at the heart of its new procurement reforms.</description>
+    </item>
+    
+    <item>
+      <title>Funky Citizens, RO</title>
+      <link>http://open-spending.test/logotypes/funky_citizens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-spending.test/logotypes/funky_citizens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Monitor, HU</title>
+      <link>http://open-spending.test/logotypes/k_monitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-spending.test/logotypes/k_monitor/</guid>
+      <description></description>
     </item>
     
   </channel>
