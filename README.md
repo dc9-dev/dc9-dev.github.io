@@ -64,3 +64,12 @@ Nalezy wykonac nastepujace operacje:
 
 ### Strona po około minucie od wykonania powyzszej kombinacji polecen odswiezy sie samodzielnie na serwerze
 
+# 3. Podgląd lokalny
+
+Podczas edytowania strony na kompyterze mozna podejrzeć efekt pracy wpisując w terminalu:
+`hugo server -D`
+
+W efekcie uruchomiony zostanie serwer testowy pod adresem:
+
+`http://localhost:1313/`
+
