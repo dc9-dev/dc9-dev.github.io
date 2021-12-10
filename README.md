@@ -2,6 +2,10 @@
 
 hugo new posts/tytul_nowego_wpisu.md
 
+## Dodawanie nowego logo
+
+hugo new logotypes/tytul_nowego_logo.md
+
 ## Redagowanie wpisu
 
 Nalezy przejsc do katalogu posts i wyedytowac plik tytul_nowego_wpisu.md - nalezy odpowiednio uzupelnic pola
@@ -22,6 +26,25 @@ Pole alternativeUrl uzywane jest jezeli chcemy zeby zamiast do podstrony z tresc
 Pole thumbnail uzywane jest do dodania obrazka miniaturki do wpisu - trzeba go wczesniej dodac do katalogu static a sciezka wpisywana w tym polu zaczyna sie wewnatrz katalogu static np. dla static/i/europe.svg wpisujemy jedynie i/europe.svg
 
 Pole summary mozna uzywac skladni markdown np. zeby zrobic link
+
+## Redagowanie logotypu
+
+Nalezy przejsc do katalogu logotypes i wyedytowac plik tytul_nowego_logo.md - nalezy odpowiednio uzupelnic pola
+
+```
+---
+title: ""
+draft: true
+link: ""
+image: "i/europe.svg"
+---
+
+```
+
+
+Pole image uzywane jest do dodania obrazka z logo organizacji - trzeba go wczesniej dodac do katalogu static a sciezka wpisywana w tym polu zaczyna sie wewnatrz katalogu static np. dla static/i/europe.svg wpisujemy jedynie i/europe.svg
+
+Pole link to link do strony organizacji powiązanej z dodanym logo
 
 ### WAZNE
 

@@ -1,5 +1,6 @@
 baseURL = 'http://open-spending.test/'
 languageCode = 'pl-PL'
-title = 'Open Spending'
+title = 'Open spending'
 features = []
+Paginate = 10
 publishDir = 'docs'
