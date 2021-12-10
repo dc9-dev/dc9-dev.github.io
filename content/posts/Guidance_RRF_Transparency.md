@@ -1,7 +1,7 @@
 ---
 title: "Open Spending EU Coalition Guidance on the Transparency of the RRF Spending"
 date: 2021-12-10T17:01:05+01:00
-draft: true
+draft: false
 alternativeUrl: https://docs.google.com/document/d/1TLdTU4aHOtNR5u0Q1-wSNRWJ9PCNsqVT514141A5HZk/edit# 
 summary: "Transparent and open RRF spending is attainable and realistic. To support the European Commission and Member States in establishing the right mechanisms for this, the Open Spending EU Coalition has come up with concrete, practical recommendations. These recommendations focus on exactly what should be published proactively, and how this information can be published to facilitate multi-stakeholder participation and monitoring.  
 
